@@ -16,4 +16,4 @@ Email: [cartlandzhou@g.ucla.edu]
 
 
 [Website]: https://cartlandzhou.com
-[Email]: cartlandzhou@g.ucla.edu
+[Email]: cartlandzhou_at_g.ucla.edu
