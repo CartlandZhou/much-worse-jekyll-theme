@@ -6,15 +6,14 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Hi! My name is Cartland Zhou, and I am a Political Science Ph.D. candidate at the University of California, Los Angeles (UCLA). My core research seeks to model and answer questions regarding conflict initiation and dynamics as a result of great power politics and arms transfers. I also have research interests in computer vision to develop novel techniques that supplement my core research, such as optical character and object recognition.
+My dissertation project is a series of papers exploring the relationship of power perceptions, arms transfers, and conflict initiation. I study the mechanisms under which major arms suppliers influence conflict dynamics.
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Cartland Zhou <br />
+Email: [cartlandzhou@g.ucla.edu]
 
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[Website]: https://cartlandzhou.com
+[Email]: cartlandzhou@g.ucla.edu
