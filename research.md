@@ -18,7 +18,7 @@ pubs:
 
 ## Dissertation Project
 
-*The Logic of Strategic Interaction behind Arms Transfers*
+#### *The Logic of Strategic Interaction behind Arms Transfers*
 <details>
   <summary>Abstract</summary>
 Why do states decide to purchase certain types of weapons systems over others? In this project, I propose a new categorization of conventional arms systems based on their capacity and purpose. My theory hypothesizes that a state’s internal political stability determines the type of weapons states choose to import or produce domestically. Certain types of arms are more suited for domestic conflict and thus are less coveted by unstable states in fear of losing control over the military. As a result, a state’s weapons arsenal reveals military capacity and can be interpreted as a signal of state resolve in international conflict. This paper provides a new mechanism to predict the outcome of international militarized conflict. If a state’s military arsenal is built for civil conflict, then it must compromise some of its external strike or defense capabilities. Therefore, states that face both domestic political instability and external rivalry have to grapple to strike a balance between the two when arming their military. Moreover, this theory addresses why procurement of certain arms is more likely to trigger arms races than others as certain arms are more suited for expansionist means.
@@ -27,7 +27,7 @@ Why do states decide to purchase certain types of weapons systems over others? I
 
 ## Working Papers
 
-*Tools Outside of Diplomacy: Introducing a Dataset of Foreign Lobbying (Under Review)*
+#### *Tools Outside of Diplomacy: Introducing a Dataset of Foreign Lobbying (Under Review)*
 <details>
   <summary>Abstract</summary>
 
@@ -35,7 +35,7 @@ Why do states decide to purchase certain types of weapons systems over others? I
 
 </details>
 
-*Measuring Military Capability: Introducing an Integrated Dimensional Clustering Approach*
+#### *Measuring Military Capability: Introducing an Integrated Dimensional Clustering Approach*
 <details>
   <summary>Abstract</summary>
 
@@ -43,7 +43,7 @@ Why do states decide to purchase certain types of weapons systems over others? I
 
 </details>
 
-*Network Analysis of Balancing by Middle Powers (with Arthur Stein)*
+#### *Network Analysis of Balancing by Middle Powers (with Arthur Stein)*
 <details>
   <summary>Abstract</summary>
     
