@@ -16,12 +16,12 @@ pubs:
           url:  "http://www.imdb.com/title/tt0133093/"
 ---
 
-## Dissertation Project
+## Job Market Paper
 
-#### *The Logic of Strategic Interaction behind Arms Transfers*
+#### *Constraint on the Global Arms Supply and Implications for Modern Conflicts*
 <details>
   <summary>Abstract</summary>
-Why do states decide to purchase certain types of weapons systems over others? In this project, I propose a new categorization of conventional arms systems based on their capacity and purpose. My theory hypothesizes that a state’s internal political stability determines the type of weapons states choose to import or produce domestically. Certain types of arms are more suited for domestic conflict and thus are less coveted by unstable states in fear of losing control over the military. As a result, a state’s weapons arsenal reveals military capacity and can be interpreted as a signal of state resolve in international conflict. This paper provides a new mechanism to predict the outcome of international militarized conflict. If a state’s military arsenal is built for civil conflict, then it must compromise some of its external strike or defense capabilities. Therefore, states that face both domestic political instability and external rivalry have to grapple to strike a balance between the two when arming their military. Moreover, this theory addresses why procurement of certain arms is more likely to trigger arms races than others as certain arms are more suited for expansionist means.
+Scholars have long studied the rationality of warfare, but not the practicality of it. In this paper, I argue that the constraint on the global arms supply changes the modern international security environment, leading to a rise in asymmetrical conflicts. The paper begins with a theoretical argument on the unique security environment states face today created by the oligopolistic nature of the global defense industry, highlighting the challenges to sustain a stable flow of arms supply necessary for militarized conflicts. These conditions, given existing grievances between states, have skewed observable conflicts towards wars between asymmetrical states. Moreover, I develop a new measure of military capability using a combination of k-means clustering and principal component analysis with military arsenal data. I demonstrate that the PCA-MD measure is more successful at capturing the shifting distribution of military power between dyads than previous estimates in the Post WWII era. The results of statistical analysis show that militaries in different strength clusters are more likely to be engaged in conflict during this period..
 
 </details>
 
@@ -43,10 +43,10 @@ Why do states decide to purchase certain types of weapons systems over others? I
 
 </details>
 
-#### *Network Analysis of Balancing by Middle Powers (with Arthur Stein)*
+#### *The Unfolding Character of Balancing in International Relations: The Case of Middle Powers Responding to China’s Rise (with Arthur Stein)*
 <details>
   <summary>Abstract</summary>
     
-This paper suggests a comprehensive network model, using the ICEWS event dataset, to analyze the triadic balancing behaviors of Middle Power states in response to Great Power politics. The study examines the changes in military and economic policies of these states and identifies patterns of state balancing. The findings indicate that state relations should be looked at beyond a dyadic perspective and that Middle Power states are highly responsive to the changing balancing behaviors of Great Powers. The paper also provides a detailed analysis of how Asian countries respond to China's rise in various policy areas.
+This paper criticizes the conventional balance-of-power argument of a dichotomy between balancing and bandwagoning in response to adverse shifts in the balance. It delineates the assumptions underlying balancing arguments and problems associated with them. It argues that bandwagoning and balancing constitute ends of a continuum of state responses, and that each also consists of multiple possibilities. And it argues that there is a process by which rising powers manifest threat. Similarly, there is a historical unfolding process in state responses to growing threats. The paper draws on a variety of data sources to demonstrate the delayed and limited military assertiveness of China, and the range of responses by the regional powers threatened by China’s maritime claims. China’s assertiveness has both brought together the spokes in the US security structure in Asia, but has also led to hedging by those without allies.
 
 </details>
